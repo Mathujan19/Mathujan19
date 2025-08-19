@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--# Hi there 👋, I'm Mathujan  
+# Hi there 👋, I'm Mathujan  
 
 🎓 Undergraduate student at **Sabaragamuwa University of Sri Lanka**  
 📚 Pursuing **BSc (Hons) in Information Systems**  
@@ -44,5 +44,5 @@
 ## 🌐 Connect with Me  
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mathujan19)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com) <!-- Replace with your LinkedIn profile later -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com](https://www.linkedin.com/in/vimalaraja-mathujan-8a32b026a/)) <!-- Replace with your LinkedIn profile later -->
 
