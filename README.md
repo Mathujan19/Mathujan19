@@ -20,21 +20,40 @@
 </div>
 
 ---
+## 🌌 About Me
 
-## 🎯 About Me
+> **"A Full-Stack Developer by logic, a UI/UX Designer by intuition, and a Soul Storyteller by vision."**
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxoxyqAiYqQ/giphy.gif" alt="Coding" width="250" />
+Hello! I am **Vimalaraja Mathujan**, a forward-thinking technologist and digital creator dedicated to building intelligent, scalable, and human-centric software. 
 
-Hi! I'm **Mathujan**, a passionate full-stack developer who loves creating beautiful, functional web applications. I combine technical expertise with creative problem-solving to build solutions that users love.
-
-- 🔥 Specialized in **React**, **Node.js**, and **Full-Stack Development**
-- 🎨 Experienced in **Responsive Design** and **Modern UI/UX**
-- 🎥 Video content creator and **Videography Enthusiast**
-- 🌱 Always learning new technologies and frameworks
-- 💡 Passionate about clean code and best practices
+Currently, I am pursuing my **BSc (Hons) in Information Systems** at the **Sabaragamuwa University of Sri Lanka**. My work sits at the exact intersection of robust engineering, intuitive design, and AI-driven automation. I don't just build systems to process data; I design digital ecosystems that elevate how communities and industries operate.
 
 ---
 
+## 🎯 My Vision & Core Goals
+
+### **1. Architecting Next-Gen Intelligent Ecosystems (Primary Goal)**
+My main objective is to design and deploy decentralized, real-time, and AI-integrated platforms that solve complex, real-world structural problems.
+*   **Sub-Goal:** Master advanced autonomous AI frameworks (AIOS) and automation pipelines (`n8n`, `Claude Code`) to engineer systems that adapt dynamically to user behavior.
+*   **Sub-Goal:** Scale real-time transit and supply-chain infrastructure—similar to my work architecturalizing **RideSync** for the Sri Lanka Transport Board and **Zellynx** for community commerce.
+
+### **2. Pioneering Human-First UI/UX Engineering**
+I aim to eliminate the friction between complex backend logic and the end-user, ensuring that advanced software feels native, accessible, and emotionally engaging.
+*   **Sub-Goal:** Refine rapid high-fidelity wireframing workflows using `Figma` and `Visily` to bridge the gap between initial ideation and production-ready frontend code.
+
+### **3. Capturing Realities Through Visual Storytelling**
+To expand my creative footprint as a photographer and videographer, using visual mediums to document human emotion, culture, and structural symmetries.
+*   **Sub-Goal:** Maintain my identity as a *“soul storyteller,”* blending high-end digital media production with creative technology to build immersive brand narratives.
+
+---
+
+## ⚡ Core Interests & Obsessions
+
+*   **💻 Tech Architecture:** Real-time databases (Firebase), component-driven frontend architecture (React, Next.js), and cross-platform mobile frameworks (Flutter).
+*   **🤖 AI & Hyper-Automation:** Building contextual AI agents, automating complex workflows, and exploring the capabilities of modern LLM interfaces.
+*   **🎮 Game Development & Interactive Media:** Crafting immersive experiences, implementing game physics, and exploring interactive mechanics that blur the line between utility software and entertainment.
+*   **🎨 Spatial & Visual Design:** User journey mapping, modern minimal UI layout, and typographic systems.
+*   **📸 Framed by the Eye:** Cinematic videography, street photography, and digital post-processing/creative direction.
 ## 🛠️ Tech Stack & Technologies
 
 <div align="center">
