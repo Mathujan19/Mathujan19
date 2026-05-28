@@ -153,10 +153,10 @@ To expand my creative footprint as a photographer and videographer, using visual
 
 ---
 
-## 🐍 GitHub Contribution Animation
-
-![Snake animation](https://raw.githubusercontent.com/Mathujan19/Mathujan19/output/github-contribution-grid-snake.svg)
-
+### 🐍 Activity
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Mathujan19/Mathujan19/output/github-snake-dark.svg" width="100%" alt="Contribution Snake"/>
+</div>
 ---
 
 ## 📞 Let's Connect!
