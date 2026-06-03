@@ -110,9 +110,9 @@ To expand my creative footprint as a photographer and videographer, using visual
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mathujan19&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=Mathujan19&theme=radical&show_icons=true&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathujan19&theme=radical&show_icons=true&hide_border=true&layout=compact)
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Mathujan19&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
 </div>
 
@@ -125,7 +125,6 @@ To expand my creative footprint as a photographer and videographer, using visual
 [![GitHub Streak](https://streak-stats.demolab.com?user=Mathujan19&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 </div>
-
 ---
 
 ## 🎨 Additional Skills
