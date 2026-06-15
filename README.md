@@ -21,6 +21,50 @@
 
 ---
 
+## 💻 TERMINAL INTRO
+
+```bash
+> whoami
+Vimalaraja Mathujan
+
+> role
+Full-Stack Developer / UI-UX Designer
+
+> focus
+Full-Stack Development | AI & Automation | Visual Storytelling
+
+> status
+Building • Learning • Designing • Creating
+```
+
+---
+
+## 🧠 SYSTEM PROFILE
+
+```yaml
+name: Vimalaraja Mathujan
+location: Sri Lanka 🇱🇰
+university: Sabaragamuwa University of Sri Lanka
+
+focus:
+  - Full-Stack Web Development
+  - AI & Automation
+  - UI/UX Design
+  - Visual Storytelling
+
+currently_building:
+  - RideSync Platform
+  - Zellynx Community Commerce
+  - Intelligent Automation Systems
+
+passion:
+  - Building scalable systems
+  - Creating beautiful UX
+  - Cinematic videography
+```
+
+---
+
 ## 🌌 About Me
 
 > **"A Full-Stack Developer by logic, a UI/UX Designer by intuition, and a Soul Storyteller by vision."**
@@ -55,6 +99,14 @@ To expand my creative footprint as a photographer and videographer, using visual
 *   **🎮 Game Development & Interactive Media:** Crafting immersive experiences, implementing game physics, and exploring interactive mechanics.
 *   **🎨 Spatial & Visual Design:** User journey mapping, modern minimal UI layout, and typographic systems.
 *   **📸 Framed by the Eye:** Cinematic videography, street photography, and digital post-processing/creative direction.
+
+---
+
+## ⚙️ TECH ARSENAL
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nextjs,nodejs,express,mongodb,postgres,firebase,docker,aws,figma" />
+</p>
 
 ---
 
@@ -101,36 +153,47 @@ To expand my creative footprint as a photographer and videographer, using visual
 
 <div align="center">
 
-| 🎯 Project | 📝 Description | 🔧 Tech Stack | 🌐 Link |
-|-----------|---------------|--------------|---------|
-| **RideSync Web Portal** | Admin dashboard for ride-sharing app | React, JavaScript, Vercel | [Live](https://ridesync-webportal.vercel.app) |
-| **Blog App** | Full-featured blogging platform | TypeScript, React | [Repo](https://github.com/Mathujan19/blog-app) |
-| **Movie Ticket Booking** | Interactive ticket booking system | HTML, CSS, JavaScript | [Repo](https://github.com/Mathujan19/movie-) |
-| **Portfolio Website** | Personal portfolio showcase | HTML, CSS, Responsive Design | [Repo](https://github.com/Mathujan19/Mathujan-s-Portfolio) |
+| 🎯 Project | 📝 Description | 🔧 Tech Stack |
+|-----------|---------------|--------------|
+| **RideSync Web Portal** | Admin dashboard for ride-sharing app | React, JavaScript, Vercel |
+| **Zellynx** | Community commerce platform | Full-Stack, Real-time DB |
+| **Blog App** | Full-featured blogging platform | TypeScript, React |
+| **Movie Ticket Booking** | Interactive ticket booking system | HTML, CSS, JavaScript |
+| **Portfolio Website** | Personal portfolio showcase | HTML, CSS, Responsive Design |
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 LIVE SYSTEM METRICS
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mathujan19&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=Mathujan19&theme=radical&show_icons=true&hide_border=true&count_private=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Mathujan19&theme=radical&hide_border=true&background=0d1117" />
+</p>
 
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Mathujan19&theme=radical&show_icons=true&hide_border=true&layout=compact)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathujan19&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
+</p>
 
 ---
 
-## 🔥 Contribution Streak
+## 📈 ACTIVITY MAP
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mathujan19&theme=react-dark&hide_border=true&bg_color=0d1117" />
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mathujan19&theme=radical&hide_border=true)](https://git.io/streak-stats)
+---
 
-</div>
+## 🏆 ACHIEVEMENTS
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mathujan19&theme=onedark&no-frame=true&margin-w=8" />
+</p>
 
 ---
 
@@ -144,6 +207,7 @@ To expand my creative footprint as a photographer and videographer, using visual
 | 🎬 **Video Editing** | Adobe Premiere • Final Cut Pro • After Effects • Motion Graphics |
 | 🎨 **Design** | UI/UX Design • Figma • Adobe XD • Prototyping |
 | 🧠 **Problem Solving** | Data Structures • Algorithms • System Design • Debugging |
+| 🤖 **AI & Automation** | n8n Workflows • Claude Code • Prompt Engineering • LLM Integration |
 
 </div>
 
@@ -157,6 +221,7 @@ To expand my creative footprint as a photographer and videographer, using visual
 - 🤝 Open to collaboration and freelance projects
 - 💡 Contributing to open-source projects
 - 🔧 Architecting intelligent automation systems
+- 🎬 Capturing stories through visual media
 
 ---
 
@@ -167,16 +232,30 @@ To expand my creative footprint as a photographer and videographer, using visual
 
 ---
 
-## 📞 Let's Connect!
+## 💡 RANDOM DEV QUOTE
 
-<div align="center">
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vimalarajahmathujan@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vimalaraja-mathujan)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mathujan19)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://mathujan-portfolio.vercel.app)
+---
 
-</div>
+## 🌐 CONNECT
+
+<p align="center">
+<a href="mailto:vimalarajahmathujan@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/vimalaraja-mathujan">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Mathujan19">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://mathujan-portfolio.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white" />
+</a>
+</p>
 
 ---
 
@@ -188,8 +267,10 @@ I'm actively looking for exciting projects, collaborations, and opportunities. F
 
 ---
 
-**⭐ If you find my profile interesting, please star my repositories!**
+⚡ **"Build systems. Design experiences. Tell stories through code."** ⚡
 
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+**⭐ If you find my profile interesting, please star my repositories!**
 
 </div>
