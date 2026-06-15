@@ -14,19 +14,20 @@
 ### 🚀 Full-Stack Developer | 🎬 Videographer | 💻 Tech Enthusiast
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+GitHub!;Full-Stack+Developer;Building+Amazing+Web+Apps;Always+Learning+%26+Growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+GitHub!;Full-Stack+Developer;UI%2FUX+Designer;Tech+Storyteller" />
 </p>
 
 </div>
 
 ---
+
 ## 🌌 About Me
 
 > **"A Full-Stack Developer by logic, a UI/UX Designer by intuition, and a Soul Storyteller by vision."**
 
 Hello! I am **Vimalaraja Mathujan**, a forward-thinking technologist and digital creator dedicated to building intelligent, scalable, and human-centric software. 
 
-Currently, I am pursuing my **BSc (Hons) in Information Systems** at the **Sabaragamuwa University of Sri Lanka**. My work sits at the exact intersection of robust engineering, intuitive design, and AI-driven automation. I don't just build systems to process data; I design digital ecosystems that elevate how communities and industries operate.
+Currently, I am pursuing my **BSc (Hons) in Information Systems** at the **Sabaragamuwa University of Sri Lanka**. My work sits at the exact intersection of robust engineering, intuitive design, and storytelling through technology.
 
 ---
 
@@ -43,7 +44,7 @@ I aim to eliminate the friction between complex backend logic and the end-user, 
 
 ### **3. Capturing Realities Through Visual Storytelling**
 To expand my creative footprint as a photographer and videographer, using visual mediums to document human emotion, culture, and structural symmetries.
-*   **Sub-Goal:** Maintain my identity as a *“soul storyteller,”* blending high-end digital media production with creative technology to build immersive brand narratives.
+*   **Sub-Goal:** Maintain my identity as a *"soul storyteller,"* blending high-end digital media production with creative technology to build immersive brand narratives.
 
 ---
 
@@ -51,9 +52,12 @@ To expand my creative footprint as a photographer and videographer, using visual
 
 *   **💻 Tech Architecture:** Real-time databases (Firebase), component-driven frontend architecture (React, Next.js), and cross-platform mobile frameworks (Flutter).
 *   **🤖 AI & Hyper-Automation:** Building contextual AI agents, automating complex workflows, and exploring the capabilities of modern LLM interfaces.
-*   **🎮 Game Development & Interactive Media:** Crafting immersive experiences, implementing game physics, and exploring interactive mechanics that blur the line between utility software and entertainment.
+*   **🎮 Game Development & Interactive Media:** Crafting immersive experiences, implementing game physics, and exploring interactive mechanics.
 *   **🎨 Spatial & Visual Design:** User journey mapping, modern minimal UI layout, and typographic systems.
 *   **📸 Framed by the Eye:** Cinematic videography, street photography, and digital post-processing/creative direction.
+
+---
+
 ## 🛠️ Tech Stack & Technologies
 
 <div align="center">
@@ -70,6 +74,7 @@ To expand my creative footprint as a photographer and videographer, using visual
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### 🔧 Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -78,14 +83,15 @@ To expand my creative footprint as a photographer and videographer, using visual
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### 🚀 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
@@ -125,6 +131,7 @@ To expand my creative footprint as a photographer and videographer, using visual
 [![GitHub Streak](https://streak-stats.demolab.com?user=Mathujan19&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 </div>
+
 ---
 
 ## 🎨 Additional Skills
@@ -134,7 +141,7 @@ To expand my creative footprint as a photographer and videographer, using visual
 | Category | Skills |
 |----------|--------|
 | 🎯 **Web Development** | RESTful APIs • WebSockets • Responsive Design • Progressive Web Apps |
-| 🎬 **Video Editing** | Adobe Premiere • Final Cut Pro • After Effects • Video Motion Graphics |
+| 🎬 **Video Editing** | Adobe Premiere • Final Cut Pro • After Effects • Motion Graphics |
 | 🎨 **Design** | UI/UX Design • Figma • Adobe XD • Prototyping |
 | 🧠 **Problem Solving** | Data Structures • Algorithms • System Design • Debugging |
 
@@ -145,10 +152,11 @@ To expand my creative footprint as a photographer and videographer, using visual
 ## 🎯 What I'm Currently Doing
 
 - 🚀 Building scalable web applications
-- 📚 Exploring advanced JavaScript concepts
+- 📚 Exploring advanced JavaScript & AI concepts
 - 🎥 Creating tech-related video content
 - 🤝 Open to collaboration and freelance projects
 - 💡 Contributing to open-source projects
+- 🔧 Architecting intelligent automation systems
 
 ---
 
@@ -156,6 +164,7 @@ To expand my creative footprint as a photographer and videographer, using visual
 <div align="center">
   <img src="https://raw.githubusercontent.com/Mathujan19/Mathujan19/output/github-snake-dark.svg" width="100%" alt="Contribution Snake"/>
 </div>
+
 ---
 
 ## 📞 Let's Connect!
@@ -163,8 +172,8 @@ To expand my creative footprint as a photographer and videographer, using visual
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vimalarajahmathujan@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/mathujan19](https://www.linkedin.com/in/vimalaraja-mathujan-8a32b026a/))
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/Mathujan19](https://github.com/Mathujan19))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vimalaraja-mathujan)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mathujan19)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://mathujan-portfolio.vercel.app)
 
 </div>
