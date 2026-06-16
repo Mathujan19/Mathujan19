@@ -1,12 +1,12 @@
 <div align="center">
 
-# <div align="right>Hey, I am <div> 
+# <div align="right">Hey, I am Mathujan</div>
 
 ```
-                  ███╗   ███╗ █████╗ ████████╗██╗  ██╗██╗   ██╗     ██╗ █████╗ ██╗ ██║     ██╗
-                  ████╗ ████║██╔══██╗╚══██╔══╝██║  ██║██║   ██║     ██║██╔══██╗██║   ██║   ██║
-                  ██╔████╔██║███████║   ██║   ███████║██║   ██║     ██║███████║██║    ██║  ██║
-                  ██║╚██╔╝██║██╔══██║   ██║   ██╔══██║██║   ██║██   ██║██╔══██║██║     ██║ ██║
+                  ███╗   ███╗ █████╗ ████████╗██╗  ██╗██╗   ██╗     ██╗ █████╗ ██╗ ██║     ██║
+                  ████╗ ████║██╔══██╗╚══██╔══╝██║  ██║██║   ██║     ██║██╔══██╗██║   ██║
+                  ██╔████╔██║███████║   ██║   ███████║██║   ██║     ██║███████║██║    ██║
+                  ██║╚██╔╝██║██╔══██║   ██║   ██╔══██║██║   ██║██   ██║██╔══██║██║     ██║
                   ██║ ╚═╝ ██║██║  ██║   ██║   ██║  ██║╚██████╔╝╚█████╔╝██║  ██║██║         ██║
                   ╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝  ╚════╝ ╚═╝  ╚═╝╚══════════╝ 
 ```
@@ -14,7 +14,7 @@
 ### 🚀 Full-Stack Developer | 🎮 Game Developer | 💻 Tech Enthusiast
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+GitHub!;Full-Stack+Developer;Game+Development+Enthusiast;Building+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+GitHub!;Full-Stack+Developer;Game+Developer;UI/UX+Enthusiast" alt="Typing SVG" />
 </p>
 
 </div>
@@ -94,26 +94,38 @@ currently_building:
 ## ⚙️ TECH ARSENAL
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nextjs,nodejs,express,mongodb,postgres,firebase,docker,aws,figma,unity,blender" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nextjs,nodejs,express,mongodb,postgres,firebase,docker,aws,figma,unity,blender,bootstrap,vue,django,git,github" alt="Tech Skills"/>
 </p>
 
 ### 💻 Programming Languages
-JavaScript • TypeScript • Python • Java • HTML5 • CSS3
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,html5,css3" alt="Languages"/>
+</p>
 
 ### 🎨 Frontend & UI/UX
-React • Next.js • Vue.js • Bootstrap • Figma • Adobe XD
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,bootstrap,figma,xd" alt="Frontend"/>
+</p>
 
 ### 🔧 Backend & Databases
-Node.js • Express • Django • MongoDB • PostgreSQL • MySQL • Firebase
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,postgres,mysql,firebase" alt="Backend"/>
+</p>
 
 ### 🚀 Tools & DevOps
-Git • GitHub • Docker • AWS • Vercel
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel" alt="Tools"/>
+</p>
 
 ### 🎮 Game Development
-Unity • Blender • Game Physics • Interactive Design
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=unity,blender" alt="Game Dev"/>
+</p>
 
 ### 🤖 AI & Automation
-n8n Workflows • Claude Code • Prompt Engineering • LLM Integration
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,nodejs" alt="AI & Automation"/>
+</p>
 
 ---
 
@@ -132,15 +144,15 @@ n8n Workflows • Claude Code • Prompt Engineering • LLM Integration
 ## 📊 GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mathujan19&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mathujan19&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mathujan19&theme=radical&hide_border=true&background=0d1117" />
+  <img src="https://streak-stats.demolab.com?user=Mathujan19&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathujan19&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathujan19&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages"/>
 </p>
 
 ---
@@ -148,7 +160,7 @@ n8n Workflows • Claude Code • Prompt Engineering • LLM Integration
 ## 🏆 ACHIEVEMENTS
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mathujan19&theme=onedark&no-frame=true&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mathujan19&theme=onedark&no-frame=true&margin-w=8" alt="Achievements"/>
 </p>
 
 ---
@@ -193,10 +205,14 @@ $ cat current_projects.txt
 
 ---
 
-## 💡 RANDOM DEV QUOTE
+## 💡 STEVE JOBS' WISDOM
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <img src="https://img.shields.io/badge/Stay%20Hungry%2C%20Stay%20Foolish-FF6B6B?style=for-the-badge&logoColor=white&fontSize=16" alt="Stay Hungry Stay Foolish"/>
+</p>
+
+<p align="center">
+  <em>"Stay Hungry. Stay Foolish."</em> — Steve Jobs
 </p>
 
 ---
@@ -205,16 +221,16 @@ $ cat current_projects.txt
 
 <p align="center">
 <a href="mailto:vimalarajahmathujan@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://www.linkedin.com/in/vimalaraja-mathujan">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/Mathujan19">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://mathujan-portfolio.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
 </a>
 </p>
 
@@ -235,3 +251,7 @@ I'm actively seeking exciting projects and collaborations. Let's build something
 **⭐ If you find my profile interesting, please star my repositories!**
 
 </div>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nextjs,nodejs,express,mongodb,postgres,firebase,docker,aws,figma,unity,blender" alt="Skills"/>
+</p>
