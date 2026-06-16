@@ -180,11 +180,11 @@ $ cat current_projects.txt
 ## 💡 STEVE JOBS' WISDOM
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Stay%20Hungry%2C%20Stay%20Foolish-FF6B6B?style=for-the-badge&logoColor=white&fontSize=16" alt="Stay Hungry Stay Foolish"/>
+  <img src="https://img.shields.io/badge/Stay%20Hungry%2C%20Stay%20Foolish-FF6B6B?style=for-the-badge&logoColor=white&fontSize=64" alt="Stay Hungry Stay Foolish"/>
 </p>
 
 <p align="center">
-  <em>"Stay Hungry. Stay Foolish."</em> — Steve Jobs
+  <em>"I am a Steve Jobs fanboy"</em> — Mathujan
 </p>
 
 ---
@@ -216,14 +216,7 @@ I'm actively seeking exciting projects and collaborations. Let's build something
 
 ---
 
-⚡ **"Build systems. Design experiences. Create games. Make an impact."** ⚡
-
-<em><b>I love connecting with people</b> — if you want to say <b>hi, I'm happy to meet you!</b> 😊</em>
-
-**⭐ If you find my profile interesting, please star my repositories!**
 
 </div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nextjs,nodejs,express,mongodb,postgres,firebase,docker,aws,figma,unity,blender" alt="Skills"/>
-</p>
+
