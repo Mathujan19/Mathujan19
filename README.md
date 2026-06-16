@@ -1,12 +1,12 @@
 <div align="center">
 
-# <div align="right">Hey, I am Mathujan</div>
+# <div align="left">Hey, I am </div>
 
 ```
                   ███╗   ███╗ █████╗ ████████╗██╗  ██╗██╗   ██╗     ██╗ █████╗ ██╗ ██║     ██║
-                  ████╗ ████║██╔══██╗╚══██╔══╝██║  ██║██║   ██║     ██║██╔══██╗██║   ██║
-                  ██╔████╔██║███████║   ██║   ███████║██║   ██║     ██║███████║██║    ██║
-                  ██║╚██╔╝██║██╔══██║   ██║   ██╔══██║██║   ██║██   ██║██╔══██║██║     ██║
+                  ████╗ ████║██╔══██╗╚══██╔══╝██║  ██║██║   ██║     ██║██╔══██╗██║   ██║   ██║
+                  ██╔████╔██║███████║   ██║   ███████║██║   ██║     ██║███████║██║    ██║  ██║
+                  ██║╚██╔╝██║██╔══██║   ██║   ██╔══██║██║   ██║██   ██║██╔══██║██║     ██║ ██║
                   ██║ ╚═╝ ██║██║  ██║   ██║   ██║  ██║╚██████╔╝╚█████╔╝██║  ██║██║         ██║
                   ╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝  ╚════╝ ╚═╝  ╚═╝╚══════════╝ 
 ```
@@ -94,38 +94,10 @@ currently_building:
 ## ⚙️ TECH ARSENAL
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nextjs,nodejs,express,mongodb,postgres,firebase,docker,aws,figma,unity,blender,bootstrap,vue,django,git,github" alt="Tech Skills"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nextjs,nodejs,express,mongodb,postgres,firebase,docker,aws,figma,unity,blender,bootstrap,vue,django,git,github,xd,mysql,vercel" alt="Tech Skills"/>
 </p>
 
-### 💻 Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,html5,css3" alt="Languages"/>
-</p>
 
-### 🎨 Frontend & UI/UX
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,bootstrap,figma,xd" alt="Frontend"/>
-</p>
-
-### 🔧 Backend & Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,postgres,mysql,firebase" alt="Backend"/>
-</p>
-
-### 🚀 Tools & DevOps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel" alt="Tools"/>
-</p>
-
-### 🎮 Game Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,blender" alt="Game Dev"/>
-</p>
-
-### 🤖 AI & Automation
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,nodejs" alt="AI & Automation"/>
-</p>
 
 ---
 
