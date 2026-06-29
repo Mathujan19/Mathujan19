@@ -28,7 +28,7 @@
 Vimalaraja Mathujan
 
 > role
-Full-Stack Developer / Game Developer
+Softwarw engineer
 
 > focus
 Web Development | UI/UX Design | Game Development
@@ -49,20 +49,20 @@ $ cat goals.txt
     - Master real-time databases
     - Create responsive UIs
 
-[2] Create Engaging Game Experiences
-    - Develop interactive games
-    - Implement game mechanics
-    - Explore game physics
+[2] AI & Automation Integration
+    - Automate complex workflows
+    - Build intelligent systems
+    - Explore LLM capabilities
 
 [3] Design Human-First UI/UX
     - Bridge design and code
     - Create intuitive interfaces
     - Enhance user experiences
 
-[4] AI & Automation Integration
-    - Automate complex workflows
-    - Build intelligent systems
-    - Explore LLM capabilities
+[4] Create Engaging Game Experiences
+    - Develop interactive games
+    - Implement game mechanics
+    - Explore game physics
 
 > Status: In Progress ✓
 ```
@@ -79,14 +79,14 @@ degree: BSc (Hons) in Information Systems
 
 passion:
   - Full-Stack Web Development
-  - Game Development
-  - UI/UX Design
   - AI & Automation
+  - UI/UX Design
+  - Game Development
 
 currently_building:
   - RideSync Platform
   - Zellynx Community Commerce
-  - Interactive Game Projects
+  
 ```
 
 ---
