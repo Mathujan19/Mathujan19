@@ -28,7 +28,7 @@
 Vimalaraja Mathujan
 
 > role
-Softwarw engineer
+Software engineer
 
 > focus
 Web Development | UI/UX Design | Game Development
