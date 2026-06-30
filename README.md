@@ -73,7 +73,7 @@ $ cat goals.txt
 
 ```yaml
 name: Vimalaraja Mathujan
-location: Sri Lanka 🇱🇰
+location: Sri Lanka 
 university: Sabaragamuwa University of Sri Lanka
 degree: BSc (Hons) in Information Systems
 
