@@ -207,16 +207,3 @@ $ cat current_projects.txt
 </p>
 
 ---
-
-<div align="center">
-
-### 💬 OPEN TO OPPORTUNITIES
-
-I'm actively seeking exciting projects and collaborations. Let's build something amazing together! 🚀
-
----
-
-
-</div>
-
-
