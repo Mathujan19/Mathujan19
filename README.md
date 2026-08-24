@@ -86,7 +86,7 @@ passion:
 currently_building:
   - RideSync Platform
   - Zellynx Community Commerce
-  
+  - One ML project
 ```
 
 ---
@@ -105,11 +105,11 @@ currently_building:
 
 | 🎯 Project | 📝 Description | 🔧 Tech Stack |
 |-----------|---------------|--------------|
-| **RideSync Web Portal** | Admin dashboard for ride-sharing app | React, JavaScript, Vercel |
-| **Zellynx** | Community commerce platform | Full-Stack, Real-time DB |
-| **Blog App** | Full-featured blogging platform | TypeScript, React |
+| **RideSync Web Portal** | Full-stack ride coordination platform for urban commuters | React, JavaScript, Vercel |
+| **DiaSaver** | AI-powered diabetes risk prediction web app | React, Flask, scikit-learn |
+| **Ecobber** | Eco-friendly e-commerce platform prototype | Spring Boot, Java 17, AWS |
 | **Movie Ticket Booking** | Interactive ticket booking system | HTML, CSS, JavaScript |
-| **Portfolio Website** | Personal portfolio showcase | Responsive Design |
+| **Zellynx** | Community commerce platform | Full-Stack, Real-time DB |
 
 ---
 
