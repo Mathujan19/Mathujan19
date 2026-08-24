@@ -3,18 +3,18 @@
 # <div align="left">Hey, I am </div>
 
 ```
-                  ███╗   ███╗ █████╗ ████████╗██╗  ██╗██╗   ██╗     ██╗ █████╗ ██╗ ██║     ██║
-                  ████╗ ████║██╔══██╗╚══██╔══╝██║  ██║██║   ██║     ██║██╔══██╗██║   ██║   ██║
-                  ██╔████╔██║███████║   ██║   ███████║██║   ██║     ██║███████║██║    ██║  ██║
-                  ██║╚██╔╝██║██╔══██║   ██║   ██╔══██║██║   ██║██   ██║██╔══██║██║     ██║ ██║
-                  ██║ ╚═╝ ██║██║  ██║   ██║   ██║  ██║╚██████╔╝╚█████╔╝██║  ██║██║         ██║
+                  ███╗   ███╗ █████╗ ████████╗██╗  ██╗██╗   ██╗     ██╗ █████╗ ██╗ ██║     ███╗   ███╗
+                  ████╗ ████║██╔══██╗╚══██╔══╝██║  ██║██║   ██║     ██║██╔══██╗██║ ██║     ████╗ ████║
+                  ██╔████╔██║███████║   ██║   ███████║██║   ██║     ██║███████║██║    ██║   ██╔████╔██║
+                  ██║╚██╔╝██║██╔══██║   ██║   ██╔══██║██║   ██║██   ██║██╔══██║██║     ██║ ██║╚██╔╝██║
+                  ██║ ╚═╝ ██║██║  ██║   ██║   ██║  ██║╚██████╔╝╚█████╔╝██║  ██║██║         ██║ ╚═╝ ██║
                   ╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝  ╚════╝ ╚═╝  ╚═╝╚══════════╝ 
 ```
 
-### 🚀 Full-Stack Developer | 🎮 Game Developer | 💻 Tech Enthusiast
+### 🤖 AI/ML Engineer | 🚀 Full-Stack Developer | 💻 Tech Enthusiast
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+GitHub!;Full-Stack+Developer;Game+Developer;UI/UX+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+GitHub!;AI%2FML+Engineer;Full-Stack+Developer;UI%2FUX+Enthusiast" alt="Typing SVG" />
 </p>
 
 </div>
@@ -28,10 +28,10 @@
 Vimalaraja Mathujan
 
 > role
-Software engineer
+AI /ML engineer
 
 > focus
-Web Development | UI/UX Design | Game Development
+ai/ml engeener |Web Development | UI/UX Design | Game Development
 
 > status
 Building • Learning • Creating
