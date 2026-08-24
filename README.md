@@ -31,7 +31,7 @@ Vimalaraja Mathujan
 AI /ML engineer
 
 > focus
-ai/ml engeener |Web Development | UI/UX Design | Game Development
+AI/ML Engineering | UI/UX Design | Full-Stack Development | Game Development
 
 > status
 Building • Learning • Creating
@@ -44,20 +44,20 @@ Building • Learning • Creating
 ```bash
 $ cat goals.txt
 
-[1] Master Full-Stack Web Development
-    - Build scalable applications
-    - Master real-time databases
-    - Create responsive UIs
-
-[2] AI & Automation Integration
-    - Automate complex workflows
+[1] Advance in AI & ML Engineering
     - Build intelligent systems
-    - Explore LLM capabilities
+    - Work on machine learning models
+    - Explore data-driven solutions
 
-[3] Design Human-First UI/UX
+[2] Design Human-First UI/UX
     - Bridge design and code
     - Create intuitive interfaces
     - Enhance user experiences
+
+[3] Master Full-Stack Web Development
+    - Build scalable applications
+    - Master real-time databases
+    - Create responsive UIs
 
 [4] Create Engaging Game Experiences
     - Develop interactive games
@@ -78,9 +78,9 @@ university: Sabaragamuwa University of Sri Lanka
 degree: BSc (Hons) in Information Systems
 
 passion:
-  - Full-Stack Web Development
-  - AI & Automation
+  - AI & Machine Learning
   - UI/UX Design
+  - Full-Stack Web Development
   - Game Development
 
 currently_building:
@@ -94,7 +94,7 @@ currently_building:
 ## ⚙️ TECH ARSENAL
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nextjs,nodejs,express,mongodb,postgres,firebase,docker,aws,figma,unity,blender,bootstrap,vue,django,git,github,xd,mysql,vercel" alt="Tech Skills"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikit-learn,js,ts,react,nextjs,nodejs,express,mongodb,postgres,firebase,docker,aws,figma,unity,blender,bootstrap,vue,django,git,github,xd,mysql,vercel" alt="Tech Skills"/>
 </p>
 
 
@@ -143,11 +143,11 @@ currently_building:
 
 | 🎯 Category | ⭐ Skills |
 |-------------|---------|
-| 🌐 **Web Development** | RESTful APIs • WebSockets • Responsive Design • PWAs |
-| 🎮 **Game Development** | Game Mechanics • Physics Engines • Interactive Design |
+| 🤖 **AI/ML Engineering** | Machine Learning • Deep Learning • Python • Model Training |
 | 🎨 **UI/UX Design** | Wireframing • Prototyping • User Journey Mapping • Design Systems |
+| 🌐 **Web Development** | RESTful APIs • WebSockets • Responsive Design • PWAs |
 | 💡 **Problem Solving** | Data Structures • Algorithms • System Design • Debugging |
-| 🤖 **AI & Automation** | Workflow Automation • LLM Integration • Intelligent Systems |
+| 🎮 **Game Development** | Game Mechanics • Physics Engines • Interactive Design |
 
 </div>
 
@@ -158,12 +158,12 @@ currently_building:
 ```bash
 $ cat current_projects.txt
 
+✓ Building AI/ML solutions
+✓ Learning machine learning workflows
+✓ Designing intuitive user interfaces
 ✓ Building scalable web applications
 ✓ Developing interactive games
-✓ Designing intuitive user interfaces
-✓ Exploring AI & automation solutions
 ✓ Contributing to open-source projects
-✓ Creating tech-related content
 
 ```
 
